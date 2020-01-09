@@ -1,0 +1,16 @@
+fileignoreconfig:
+- filename: .env
+  checksum: 33b067a8fc3dfc5d0fa02c0418905e9ed12ef8c7aee06a923230bed87cfa1607
+  ignore_detectors: []
+- filename: .env.development
+  checksum: ee6a33836c8a86f9a967f1c5bf6af90692990855cb4d192545380d8a48165af0
+  ignore_detectors: []
+- filename: .env.production
+  checksum: a02d246a0cc81e4b9ef31b6b26bb7c57007acc893c5b69d8fad9c7f8b55dc34d
+  ignore_detectors: []
+- filename: config/jest/fileTransform.js
+  checksum: fa6ee4b6eeb127c7b55d14b87ea5bfe7ea259dd86b2cf5671479a92951127fb6
+  ignore_detectors: []
+- filename: yarn.lock
+  checksum: 3e6cca32241436a07d34b0ce47e898aaca99b0c83fb31d6bdabc8b3af7c48bae
+  ignore_detectors: []
